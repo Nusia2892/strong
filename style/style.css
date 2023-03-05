@@ -36,14 +36,14 @@ body{
 
 .banner{
     min-height: 766px;
-    background-image:url("/image/bg.png");
+    background-image: url("../image/bg.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 240px 80px;
 }
 
 .banner_content{
-    background-image: url("/image/flag.png");
+    background-image: url("../image/flag.png");
     background-repeat: no-repeat;
     white-space: pre-line;
     font-size: 48px;
